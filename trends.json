@@ -1,0 +1,29 @@
+{
+    "trends": [
+      {
+        "id": "1",
+        "category": "Politics",
+        "hashtag": "#HI-Fashion",
+        "tweetCount": 8464
+      },
+      {
+        "id": "2",
+        "category": "Rock",
+        "hashtag": "#Ferrari",
+        "tweetCount": 5586
+      },
+      {
+        "id": "3",
+        "category": "Auto Racing",
+        "hashtag": "#vettel",
+        "tweetCount": 9416
+      },
+      {
+        "id": "4",
+        "category": "Technology",
+        "hashtag": "#AI",
+        "tweetCount": 6321
+      }
+    ]
+  }
+  

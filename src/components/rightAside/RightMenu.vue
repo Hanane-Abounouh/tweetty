@@ -1,5 +1,5 @@
 <template>
-   <div class="w-2/4 mr-14 h-auto bg-dark">
+   <div class="w-2/5  h-auto bg-dark">
     <!-- Contenu du menu de droite -->
     <RightSearch />
     <TweetSection />

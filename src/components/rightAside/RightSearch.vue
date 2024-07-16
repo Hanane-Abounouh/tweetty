@@ -1,5 +1,5 @@
 <template>
-  <div class="relative text-gray-100 w-80 p-4 pb-0 ">
+  <div class="relative text-gray-100 lg:w-3/4 px-2 py-4 pb-2 ">
     <button type="submit" class="absolute ml-4 mt-3 mr-4">
       <svg class="h-4 w-4 fill-current" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
         version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 56.966 56.966"
